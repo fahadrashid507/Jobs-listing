@@ -1,2 +1,2 @@
 # Jobs-listing
-#This is the jobs listing project from the
+#This is the jobs listing project.
